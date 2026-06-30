@@ -17,3 +17,4 @@ C# fundamentals exercises completed while working through *The C# Player's Guide
 | LevelThirteenProjectTwo | 13 | Recursion |
 | ClaudeTestPart3 | 13 | Checkpoint: FizzBuzz, array reverse, IsPrime, safe input |
 | ClaudeExcerciseFour | 13 | Checkpoint Part 4: dungeon game, shop system, tuple returns |
+| HuntingTheManticore | 14 | Methods, IsPrime algorithm, iterative debugging |
